@@ -38,7 +38,6 @@ WSGI son las siglas de Web Server Gateway Interface. Es una especificación que 
 
 ## ¿Que es ASGI?
 
-
 ## Pydantic y Starlette
 
 
